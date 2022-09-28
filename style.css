@@ -76,11 +76,14 @@ img{
     width: 300px;
     height: 250px;
     color: rgb(168, 121, 189);
+    mix-blend-mode: multiply;
+    opacity: 82%;
 }
 
 .photo{
     width: 300px;
     height: 250px;
+    background-color: hsl(277, 64%, 61%);
     
 }
 
